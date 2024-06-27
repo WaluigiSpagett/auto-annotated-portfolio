@@ -32,8 +32,8 @@
                 "label": "Instagram",
                 "altText": "",
                 "url": "https://www.instagram.com/aventodrones",
-                "showIcon": false,
-                "icon": "arrowRight",
+                "showIcon": true,
+                "icon": "instagram",
                 "iconPosition": "right",
                 "elementId": ""
             }

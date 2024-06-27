@@ -4,11 +4,11 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 75
+  opacity: 100
+  url: /images/featured-Image1.jpg
 sections:
   - elementId: ''
     colors: colors-f
@@ -26,7 +26,7 @@ sections:
           - mr-0
         padding:
           - pt-36
-          - pb-48
+          - pb-20
           - pl-4
           - pr-4
         alignItems: center
@@ -42,7 +42,16 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-    actions: []
+    actions:
+      - type: Button
+        label: 'About me '
+        altText: ''
+        url: /info
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -91,7 +100,7 @@ sections:
         height: auto
         width: wide
         padding:
-          - pt-36
+          - pt-9
           - pb-36
           - pl-4
           - pr-4
@@ -145,7 +154,7 @@ sections:
         height: auto
         width: narrow
         padding:
-          - pt-28
+          - pt-3
           - pb-36
           - pl-4
           - pr-4

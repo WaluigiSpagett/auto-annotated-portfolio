@@ -19,7 +19,7 @@ bottomSections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/DJI_20240618133225_0073_D_DRONEPIC.jpg
         altText: Image one
         caption: Image one caption
         elementId: ''

@@ -7,7 +7,7 @@ backgroundImage:
   backgroundSize: cover
   backgroundPosition: bottom
   backgroundRepeat: no-repeat
-  opacity: 94
+  opacity: 90
   url: /images/featured-Image1.jpg
 sections:
   - elementId: ''

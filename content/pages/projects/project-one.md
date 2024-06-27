@@ -59,13 +59,11 @@ bottomSections:
     colors: colors-f
     variant: variant-b
     title: Nueral Radiance Fields
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      A Neural radiance field is similar to photogramatery in that it creates a
+      3d model from a series of images through  **AI✨,** this is important as it
+      allows the customer to view an interactive 3d model of your installation,
+      or to view the survey in 3d beforehand.
     elementId: ''
     styles:
       self:

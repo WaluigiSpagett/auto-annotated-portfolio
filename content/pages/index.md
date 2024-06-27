@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-b
     backgroundSize: full
-    title: Avento Photography
+    title: Avento
     subtitle: This is my website - Here I upload a collection of the best of my work.
     styles:
       self:

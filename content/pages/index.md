@@ -46,7 +46,7 @@ sections:
     quote: |
       See your projects from a different angle 
     name: Johnna Doe
-    title: Product Marketing Manager at Acme
+    title: ''
     colors: colors-f
     elementId: ''
     styles:

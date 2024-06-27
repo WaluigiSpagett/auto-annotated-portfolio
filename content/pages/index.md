@@ -11,9 +11,9 @@ backgroundImage:
   url: /images/featured-Image1.jpg
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-b
     backgroundSize: full
-    title: Avento Photography
+    title: ''
     subtitle: This is my website - Here I upload a collection of the best of my work.
     styles:
       self:
@@ -25,13 +25,14 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-36
+          - pt-4
           - pb-20
-          - pl-4
+          - pl-0
           - pr-4
         alignItems: center
         justifyContent: center
-        flexDirection: row-reverse
+        flexDirection: col-reverse
+        borderRadius: none
       title:
         textAlign: left
         fontWeight: 400
@@ -52,6 +53,12 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
+    media:
+      type: ImageBlock
+      url: /images/unnamed.png
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -66,6 +73,7 @@ sections:
     variant: variant-b
     projects:
       - content/pages/projects/project-two.md
+      - content/pages/projects/project-one.md
     styles:
       self:
         height: auto
@@ -81,19 +89,24 @@ sections:
           - pl-4
           - pr-4
         justifyContent: center
+        borderRadius: small
       title:
         textAlign: left
       subtitle:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Projects
+    subtitle: ''
+    title: Projects
   - type: QuoteSection
-    quote: |
-      "See your projects from a different angle"
+    quote: |+
+      View your work from another angle
+
+
+
     name: '- Will'
     title: Head UAV Photographer at Avento
-    colors: colors-f
+    colors: colors-b
     elementId: ''
     styles:
       self:
@@ -101,10 +114,14 @@ sections:
         width: wide
         padding:
           - pt-9
-          - pb-36
+          - pb-20
           - pl-4
           - pr-4
         justifyContent: center
+        borderRadius: xx-large
+        borderColor: border-dark
+        borderWidth: 6
+        borderStyle: solid
       quote:
         textAlign: left
       name:
@@ -113,61 +130,4 @@ sections:
       title:
         fontWeight": 400
         textAlign: left
-  - type: ContactSection
-    title: Contact Me
-    text: I'm look forward to hearing from you.
-    form:
-      type: FormBlock
-      title: Title of the form
-      fields:
-        - type: TextFormControl
-          name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          width: 1/2
-          isRequired: 'true'
-        - type: EmailFormControl
-          name: email
-          label: Name
-          hideLabel: true
-          placeholder: Your email
-          width: 1/2
-          isRequired: 'true'
-        - type: TextareaFormControl
-          name: message
-          label: Tell me about your project
-          hideLabel: true
-          placeholder: Tell me about your project
-          width: full
-          isRequired: true
-        - type: CheckboxFormControl
-          name: updates
-          label: Sign me up to receive updates
-          width: full
-          isRequired: 'false'
-      submitLabel: Send Message
-      elementId: contact-form
-      styles:
-        submitLabel:
-          textAlign: left
-    colors: colors-f
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-36
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: center
-      text:
-        textAlign: center
 ---

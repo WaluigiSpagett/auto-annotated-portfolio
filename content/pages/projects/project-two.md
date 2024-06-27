@@ -73,7 +73,7 @@ bottomSections:
 backgroundImage:
   type: BackgroundImage
   url: /images/DJI_20240618125958_0020_D_DRONEPIC.jpg
-  backgroundSize: contain
+  backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100

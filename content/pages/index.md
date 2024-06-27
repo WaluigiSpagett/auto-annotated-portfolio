@@ -119,7 +119,7 @@ sections:
         borderRadius: xx-large
         borderColor: border-dark
         borderWidth: 8
-        borderStyle: solid
+        borderStyle: dotted
       quote:
         textAlign: left
       name:

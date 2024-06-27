@@ -45,7 +45,7 @@ sections:
   - type: QuoteSection
     quote: |
       "See your projects from a different angle"
-    name: Johnna Doe
+    name: '- Will'
     title: ''
     colors: colors-f
     elementId: ''

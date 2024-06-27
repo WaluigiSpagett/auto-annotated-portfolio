@@ -58,7 +58,7 @@ bottomSections:
 media:
   type: VideoBlock
   title: Title of the video
-  url: /images/Promotional Video 1 comp.mp4
+  url: public/images/Promotional Video 1 comp.mp4
   elementId: ''
   autoplay: true
   loop: true

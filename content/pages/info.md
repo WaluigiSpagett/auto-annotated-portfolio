@@ -132,69 +132,55 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: ContactSection
-    backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
-    colors: colors-f
+    title: Contact Me
+    text: I'm look forward to hearing from you.
     form:
       type: FormBlock
-      elementId: sign-up-form
+      title: Title of the form
       fields:
-        - name: firstName
-          label: First Name
+        - type: TextFormControl
+          name: name
+          label: Name
           hideLabel: true
-          placeholder: First Name
-          isRequired: true
+          placeholder: Your name
           width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
+          isRequired: 'true'
+        - type: EmailFormControl
+          name: email
+          label: Name
           hideLabel: true
-          placeholder: Last Name
-          isRequired: false
+          placeholder: Your email
           width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
+          isRequired: 'true'
+        - type: TextareaFormControl
+          name: message
+          label: Tell me about your project
           hideLabel: true
           placeholder: Tell me about your project
+          width: full
           isRequired: true
-          width: full
-          type: TextareaFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve my words
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
+      submitLabel: Send Message
+      elementId: contact-form
       styles:
         submitLabel:
-          textAlign: center
+          textAlign: left
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
     styles:
       self:
         height: auto
         width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-4
-          - mr-4
         padding:
-          - pt-12
-          - pb-12
-          - pr-4
+          - pt-28
+          - pb-36
           - pl-4
+          - pr-4
         alignItems: center
         justifyContent: center
         flexDirection: row
       title:
-        textAlign: left
+        textAlign: center
       text:
-        textAlign: left
+        textAlign: center
 ---

@@ -39,7 +39,7 @@ bottomSections:
         caption: Caption of the image
         elementId: ''
     colors: colors-d
-    spacing: 16
+    spacing: 47
     columns: 2
     aspectRatio: '1:1'
     showCaption: false

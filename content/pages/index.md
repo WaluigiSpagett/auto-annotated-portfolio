@@ -115,7 +115,7 @@ sections:
         justifyContent: center
         borderRadius: x-large
         borderColor: border-dark
-        borderWidth: 1
+        borderWidth: 2
       quote:
         textAlign: left
       name:

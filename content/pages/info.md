@@ -42,7 +42,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/IMG-20240618-WA0005~8.jpg
-      altText: altText of the image
+      altText: Will and the Dji Mini 4 pro
       caption: Caption of the image
       elementId: ''
     title: 'I''m Will, '

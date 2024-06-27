@@ -43,31 +43,6 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-  - type: QuoteSection
-    quote: |
-      "See your projects from a different angle"
-    name: '- Will'
-    title: Head UAV Photographer at Avento
-    colors: colors-f
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-      quote:
-        textAlign: left
-      name:
-        fontWeight": 500
-        textAlign: left
-      title:
-        fontWeight": 400
-        textAlign: left
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -104,4 +79,29 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Projects
+  - type: QuoteSection
+    quote: |
+      "See your projects from a different angle"
+    name: '- Will'
+    title: Head UAV Photographer at Avento
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      quote:
+        textAlign: left
+      name:
+        fontWeight": 500
+        textAlign: left
+      title:
+        fontWeight": 400
+        textAlign: left
 ---

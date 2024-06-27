@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: I’m a liscenced drone photographer
+    title: Avento Photography
     subtitle: This is my website - Here I upload a collection of the best of my work.
     styles:
       self:
@@ -34,6 +34,7 @@ sections:
         flexDirection: row-reverse
       title:
         textAlign: left
+        textDecoration: underline
       subtitle:
         textAlign: left
       text:
@@ -42,6 +43,31 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+  - type: QuoteSection
+    quote: |
+      "See your projects from a different angle"
+    name: '- Will'
+    title: Head UAV Photographer at Avento
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      quote:
+        textAlign: left
+      name:
+        fontWeight": 500
+        textAlign: left
+      title:
+        fontWeight": 400
+        textAlign: left
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -49,7 +75,7 @@ sections:
       - type: Link
         label: See all projects
         url: /projects
-    showDate: false
+    showDate: true
     showDescription: true
     showFeaturedImage: true
     showReadMoreLink: true

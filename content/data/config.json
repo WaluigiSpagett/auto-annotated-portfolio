@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/unnamed.png",
+    "favicon": "/images/favicon.svg",
     "footer": {
         "type": "Footer",
         "primaryLinks": [

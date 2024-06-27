@@ -100,7 +100,7 @@ sections:
       "See your projects from a different angle"
     name: '- Will'
     title: Head UAV Photographer at Avento
-    colors: colors-f
+    colors: colors-b
     elementId: ''
     styles:
       self:

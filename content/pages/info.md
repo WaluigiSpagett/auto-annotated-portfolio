@@ -93,7 +93,7 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            url: 'https://www.instagram.com/'
+            url: 'https://www.instagram.com/aventodrones'
         styles:
           self:
             textAlign: left

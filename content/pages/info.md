@@ -47,6 +47,9 @@ sections:
       caption: Caption of the image
       elementId: ''
     title: 'I''m Will, '
+    subtitle: >-
+      I like Drones and Photography, curently doing marketing photos and videos
+      with my Dji Mini 4 Pro
   - type: DividerSection
     styles:
       self:

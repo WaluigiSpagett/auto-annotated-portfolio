@@ -9,7 +9,7 @@
                 "label": "Info",
                 "url": "/info",
                 "altText": "",
-                "showIcon": true
+                "showIcon": false
             },
             {
                 "type": "Link",

@@ -29,9 +29,9 @@
             },
             {
                 "type": "Link",
-                "label": "Learn more",
+                "label": "Instagram",
                 "altText": "",
-                "url": "www.google.com",
+                "url": "https://www.instgram.com/aventodrones",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",

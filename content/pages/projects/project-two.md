@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Hilltop Commercial Site
-colors: colors-a
+colors: colors-c
 date: '2024-06-18'
 client: With Associated Clean Technologies
 description: ''

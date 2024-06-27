@@ -75,11 +75,6 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        actions: []
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
         title: Item Title
         subtitle: ''
         text: >-

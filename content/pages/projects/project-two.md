@@ -29,16 +29,26 @@ bottomSections:
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
-        url: /images/DJI_20240618131726_0027_D_DRONEPIC.JPG
-        altText: Image three
-        caption: Image three caption
-        elementId: ''
-      - type: ImageBlock
         url: /images/DJI_20240618130044_0021_D_DRONEPIC.JPG
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
-    colors: colors-a
+      - type: ImageBlock
+        url: /images/DJI_0760.JPG
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
+      - type: ImageBlock
+        url: /images/DJI_20240618125634_0012_D_DRONEPIC.JPG
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
+      - type: ImageBlock
+        url: /images/DJI_0770.JPG
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
+    colors: colors-f
     spacing: 27
     columns: 2
     aspectRatio: '3:2'
@@ -70,4 +80,11 @@ bottomSections:
           - pb-36
         justifyContent: center
         borderWidth: 1
+backgroundImage:
+  type: BackgroundImage
+  url: /images/DJI_20240618125958_0020_D_DRONEPIC.jpg
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 36
 ---

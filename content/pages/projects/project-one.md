@@ -83,6 +83,7 @@ bottomSections:
         textAlign: left
       text:
         textAlign: left
+    subtitle: Why?
 media:
   type: VideoBlock
   title: Title of the video

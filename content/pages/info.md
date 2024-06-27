@@ -49,16 +49,4 @@ sections:
     subtitle: >-
       I like Drones and Photography, curently doing marketing photos and videos
       with my Dji Mini 4 Pro
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
 ---

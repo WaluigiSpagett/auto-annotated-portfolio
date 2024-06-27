@@ -42,8 +42,8 @@ bottomSections:
     spacing: 47
     columns: 2
     aspectRatio: '3:2'
-    showCaption: true
-    enableHover: false
+    showCaption: false
+    enableHover: true
     elementId: ''
     styles:
       self:

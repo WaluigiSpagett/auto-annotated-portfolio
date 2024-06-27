@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Hilltop Commercial Site
 colors: colors-a
 date: '2024-06-18'
-client: Gaunt
+client: Associated Clean Technologies
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
   because I worked with an entire team :) but they definitely followed my lead

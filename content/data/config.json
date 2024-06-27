@@ -32,7 +32,7 @@
                 "label": "Instagram",
                 "altText": "",
                 "url": "https://www.instagram.com/aventodrones",
-                "showIcon": false,
+                "showIcon": true,
                 "icon": "instagram",
                 "iconPosition": "right",
                 "elementId": ""

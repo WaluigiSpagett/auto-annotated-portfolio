@@ -38,7 +38,7 @@ bottomSections:
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
-    colors: colors-d
+    colors: colors-a
     spacing: 47
     columns: 2
     aspectRatio: '3:2'

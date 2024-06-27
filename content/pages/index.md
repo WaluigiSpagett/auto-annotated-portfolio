@@ -121,7 +121,7 @@ sections:
         borderRadius: xx-large
         borderColor: border-secondary
         borderWidth: 6
-        borderStyle: dashed
+        borderStyle: solid
       quote:
         textAlign: left
       name:

@@ -46,7 +46,7 @@ sections:
       - type: Button
         label: 'About me '
         altText: ''
-        url: /
+        url: /info
         showIcon: false
         icon: arrowRight
         iconPosition: right

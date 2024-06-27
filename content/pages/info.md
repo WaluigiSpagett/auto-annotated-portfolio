@@ -86,6 +86,15 @@ sections:
       subtitle:
         textAlign: left
     subtitle: 'You can find my personal work here:'
+    actions:
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: /instagram.com/aventodrones
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
   - type: DividerSection
     styles:
       self:

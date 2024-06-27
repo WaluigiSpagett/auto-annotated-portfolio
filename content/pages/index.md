@@ -87,7 +87,7 @@ sections:
           - pl-4
           - pr-4
         justifyContent: center
-        borderRadius: small
+        borderRadius: large
       title:
         textAlign: left
       subtitle:

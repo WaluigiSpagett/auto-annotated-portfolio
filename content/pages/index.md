@@ -17,7 +17,7 @@ sections:
     subtitle: This is my website - Here I upload a collection of the best of my work.
     styles:
       self:
-        height: auto
+        height: screen
         width: wide
         margin:
           - mt-0

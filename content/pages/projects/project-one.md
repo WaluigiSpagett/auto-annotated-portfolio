@@ -9,12 +9,6 @@ featuredImage:
   type: ImageBlock
   url: /images/Promotional Photo 1.png
   altText: Project thumbnail image
-media:
-  type: ImageBlock
-  url: /images/Promotional Photo 1.png
-  altText: altText of the image
-  caption: Caption of the image
-  elementId: ''
 bottomSections:
   - type: MediaGallerySection
     title: Gallery

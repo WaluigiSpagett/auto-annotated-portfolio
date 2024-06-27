@@ -64,6 +64,16 @@ bottomSections:
       3d model from a series of images through  **AI✨,** this is important as it
       allows the customer to view an interactive 3d model of your installation,
       or to view the survey in 3d beforehand.
+
+
+      So take a look at our Nerf example here and decide whether it is the right
+      for you
+
+
+      <https://lumalabs.ai/embed/afef118d-a036-4932-9cce-9ca239038b67?mode=sparkles&background=%23ffffff&color=%23000000&showTitle=true&loadBg=true&logoPosition=bottom-left&infoPosition=bottom-right&cinematicVideo=undefined&showMenu=false>
+
+
+      ``
     elementId: ''
     styles:
       self:

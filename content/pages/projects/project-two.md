@@ -29,11 +29,6 @@ bottomSections:
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
-        url: /images/DJI_20240618131726_0027_D_DRONEPIC.JPG
-        altText: Image three
-        caption: Image three caption
-        elementId: ''
-      - type: ImageBlock
         url: /images/DJI_20240618130044_0021_D_DRONEPIC.JPG
         altText: altText of the image
         caption: Caption of the image

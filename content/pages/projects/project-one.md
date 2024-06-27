@@ -59,7 +59,7 @@ bottomSections:
     colors: colors-f
     variant: variant-b
     title: Nueral Radiance Fields
-    text: >+
+    text: >
       A Neural radiance field is similar to photogramatery in that it creates a
       3d model from a series of images through  **AI✨,** this is important as it
       allows the customer to view an interactive 3d model of your installation,
@@ -67,17 +67,13 @@ bottomSections:
 
 
       So take a look at our Nerf example here and decide whether it is the right
-      for you 
+      for you
 
 
       <https://lumalabs.ai/embed/afef118d-a036-4932-9cce-9ca239038b67?mode=sparkles&background=%23ffffff&color=%23000000&showTitle=true&loadBg=true&logoPosition=bottom-left&infoPosition=bottom-right&cinematicVideo=undefined&showMenu=false>
 
 
-      `<iframe
-      src="https://lumalabs.ai/embed/afef118d-a036-4932-9cce-9ca239038b67?mode=sparkles&background=%23ffffff&color=%23000000&showTitle=true&loadBg=true&logoPosition=bottom-left&infoPosition=bottom-right&cinematicVideo=undefined&showMenu=false"
-      width="888" height="500" frameborder="0" title="luma embed" style="border:
-      none;"></iframe>`
-
+      ``
     elementId: ''
     styles:
       self:

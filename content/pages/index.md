@@ -97,6 +97,7 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: ''
+    title: Projects
   - type: QuoteSection
     quote: |+
       View your work from another angle

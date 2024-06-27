@@ -34,8 +34,7 @@ bottomSections:
         caption: Image three caption
         elementId: ''
       - type: ImageBlock
-        url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
+        url: /images/DJI_20240618130044_0021_D_DRONEPIC.JPG
         altText: altText of the image
         caption: Caption of the image
         elementId: ''

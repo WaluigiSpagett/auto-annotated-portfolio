@@ -62,7 +62,7 @@ media:
   elementId: ''
   autoplay: true
   loop: false
-  muted: false
+  muted: true
   controls: true
   aspectRatio: '16:9'
 ---

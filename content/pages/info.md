@@ -90,7 +90,7 @@ sections:
       - type: Link
         label: Learn more
         altText: ''
-        url: instagram.com/aventodrones
+        url: www.instagram.com/aventodrones
         showIcon: false
         icon: arrowRight
         iconPosition: right

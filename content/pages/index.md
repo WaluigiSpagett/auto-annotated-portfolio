@@ -116,6 +116,7 @@ sections:
         borderRadius: x-large
         borderColor: border-dark
         borderWidth: 3
+        borderStyle: solid
       quote:
         textAlign: left
       name:

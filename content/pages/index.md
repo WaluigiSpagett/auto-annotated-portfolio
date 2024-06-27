@@ -97,8 +97,9 @@ sections:
         justifyContent: flex-end
     subtitle: Projects
   - type: QuoteSection
-    quote: |
-      "See your projects from a different angle"
+    quote: |+
+      > "See your work from a different angle"
+
     name: '- Will'
     title: Head UAV Photographer at Avento
     colors: colors-b

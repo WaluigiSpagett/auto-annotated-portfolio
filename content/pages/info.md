@@ -13,9 +13,8 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: |+
-      ##
-
+    text: |
+      I have my A1 & A3 open sub category licence from the CAA
     styles:
       self:
         height: auto

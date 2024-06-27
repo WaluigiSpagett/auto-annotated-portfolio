@@ -118,7 +118,7 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-    subtitle: 'You can find me here:'
+    subtitle: 'You can find my personal work here:'
   - type: DividerSection
     styles:
       self:

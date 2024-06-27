@@ -32,6 +32,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: col-reverse
+        borderRadius: small
       title:
         textAlign: left
         fontWeight: 400

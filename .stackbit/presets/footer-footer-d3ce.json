@@ -1,0 +1,75 @@
+{
+    "model": "Footer",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "footer",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "footer"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "primaryLinks": [
+                    {
+                        "$$type": "Link",
+                        "label": "Info",
+                        "altText": "",
+                        "url": "/info",
+                        "showIcon": false,
+                        "icon": null,
+                        "iconPosition": null,
+                        "elementId": null
+                    },
+                    {
+                        "$$type": "Link",
+                        "label": "Contact",
+                        "altText": "",
+                        "url": "mailto:wnewby2007@gmail.com",
+                        "showIcon": null,
+                        "icon": null,
+                        "iconPosition": null,
+                        "elementId": null
+                    },
+                    {
+                        "$$type": "Link",
+                        "label": "Home",
+                        "altText": "",
+                        "url": "/",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "elementId": ""
+                    }
+                ],
+                "contacts": {
+                    "$$type": "ContactBlock",
+                    "title": "Contact details",
+                    "phoneNumber": "",
+                    "phoneAltText": "",
+                    "email": "wnewby2007@gmail.com",
+                    "emailAltText": "My email",
+                    "address": "",
+                    "addressAltText": "",
+                    "elementId": null
+                },
+                "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/)",
+                "styles": {
+                    "self": {
+                        "width": "narrow",
+                        "padding": [
+                            "pt-16",
+                            "pb-16",
+                            "pr-4",
+                            "pl-4"
+                        ]
+                    }
+                }
+            },
+            "thumbnail": "images/footer-footer-d3ce.png"
+        }
+    ]
+}

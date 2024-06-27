@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Preview Promotional Project
 colors: colors-a
-date: '0002-10-31'
+date: '2022-10-31'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably

@@ -11,7 +11,7 @@ backgroundImage:
   url: /images/featured-Image1.jpg
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-b
     backgroundSize: full
     title: Avento Photography
     subtitle: This is my website - Here I upload a collection of the best of my work.

@@ -16,7 +16,7 @@ media:
 bottomSections:
   - type: MediaGallerySection
     title: Gallery
-    subtitle: This is the subtitle
+    subtitle: Some examples
     images:
       - type: ImageBlock
         url: /images/DJI_20240618133225_0073_D_DRONEPIC.jpg

@@ -14,7 +14,9 @@ sections:
     colors: colors-b
     backgroundSize: full
     title: ''
-    subtitle: This is my website - Here I upload a collection of the best of my work.
+    subtitle: >-
+      This is my website - Here is a collection of my latest projects, a bit
+      about me and my contact information
     styles:
       self:
         height: auto

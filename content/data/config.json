@@ -1,34 +1,6 @@
 {
     "type": "Config",
     "favicon": "/images/favicon.svg",
-    "header": {
-        "type": "Header",
-        "headerVariant": "variant-c",
-        "isSticky": false,
-        "title": "Personal",
-        "isTitleVisible": true,
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Projects",
-                "url": "/projects"
-            }
-        ],
-        "socialLinks": [
-            {
-                "type": "Social",
-                "altText": "Instagram",
-                "label": "Instagram",
-                "url": "https://www.instagram.com/aventodrones/",
-                "icon": "instagram"
-            }
-        ],
-        "styles": {
-            "self": {
-                "width": "full"
-            }
-        }
-    },
     "footer": {
         "type": "Footer",
         "primaryLinks": [

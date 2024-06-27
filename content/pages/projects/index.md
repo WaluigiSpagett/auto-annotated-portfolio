@@ -7,7 +7,7 @@ backgroundImage:
   url: /images/bg1.jpg
   backgroundSize: auto
   backgroundPosition: center
-  backgroundRepeat: no-repeat
+  backgroundRepeat: repeat-y
   opacity: 50
 projectFeed:
   type: ProjectFeedSection

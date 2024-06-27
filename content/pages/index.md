@@ -119,7 +119,7 @@ sections:
           - pr-4
         justifyContent: center
         borderRadius: xx-large
-        borderColor: border-complementary
+        borderColor: border-secondary
         borderWidth: 6
         borderStyle: dashed
       quote:

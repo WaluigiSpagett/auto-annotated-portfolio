@@ -61,40 +61,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: FeaturedItemsSection
-    colors: colors-f
-    items: []
-    columns: 3
-    spacingX: 120
-    spacingY: 0
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-    subtitle: 'You can find my personal work here:'
-    actions:
-      - type: Link
-        label: Learn more
-        altText: ''
-        url: www.instagram.com/aventodrones
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
   - type: DividerSection
     styles:
       self:

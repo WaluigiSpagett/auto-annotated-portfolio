@@ -42,7 +42,7 @@ bottomSections:
     spacing: 47
     columns: 2
     aspectRatio: '3:2'
-    showCaption: false
+    showCaption: true
     enableHover: false
     elementId: ''
     styles:

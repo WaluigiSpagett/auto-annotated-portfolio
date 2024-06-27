@@ -66,4 +66,5 @@ media:
   controls: false
   aspectRatio: '16:9'
 ---
-![](https://lumalabs.ai/embed/afef118d-a036-4932-9cce-9ca239038b67?mode=sparkles\&background=%23ffffff\&color=%23000000\&showTitle=true\&loadBg=true\&logoPosition=bottom-left\&infoPosition=bottom-right\&cinematicVideo=undefined\&showMenu=false)
+\<iframe src="https\://lumalabs.ai/embed/afef118d-a036-4932-9cce-9ca239038b67?mode=sparkles\&background=%23ffffff\&color=%23000000\&showTitle=true\&loadBg=true\&logoPosition=bottom-left\&infoPosition=bottom-right\&cinematicVideo=undefined\&showMenu=false" width="888" height="500" frameborder="0" title="luma embed" style="border: none;">\</iframe>
+

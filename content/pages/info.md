@@ -14,10 +14,8 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      ## I'm Will, I like Drones and Photography, curently doing marketing
-      photos and videos with my Dji Mini 4 Pro
-
-
+      ## I like Drones and Photography, curently doing marketing photos and
+      videos with my Dji Mini 4 Pro
 
     styles:
       self:

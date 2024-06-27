@@ -46,7 +46,7 @@ sections:
     quote: |
       "See your projects from a different angle"
     name: '- Will'
-    title: Head UAV Photographer
+    title: Head UAV Photographer at Avento
     colors: colors-f
     elementId: ''
     styles:

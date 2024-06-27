@@ -1,13 +1,13 @@
 ---
 type: ProjectFeedLayout
-title: Projects
+title: Avento Photography
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
   url: /images/bg1.jpg
-  backgroundSize: cover
+  backgroundSize: auto
   backgroundPosition: center
-  backgroundRepeat: no-repeat
+  backgroundRepeat: repeat-y
   opacity: 50
 projectFeed:
   type: ProjectFeedSection

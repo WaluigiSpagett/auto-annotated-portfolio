@@ -16,6 +16,16 @@
                 "label": "Contact",
                 "url": "mailto:wnewby2007@gmail.com",
                 "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Home",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "contacts": {

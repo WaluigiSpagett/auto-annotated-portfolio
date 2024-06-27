@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Hilltop Commercial Site
 colors: colors-a
-date: '2024-06-20'
+date: ''
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably

@@ -13,9 +13,8 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-      ## I like Drones and Photography, curently doing marketing photos and
-      videos with my Dji Mini 4 Pro
+    text: |+
+      ##
 
     styles:
       self:

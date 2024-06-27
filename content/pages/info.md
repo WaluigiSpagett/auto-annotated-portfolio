@@ -47,6 +47,7 @@ sections:
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
+    title: 'I''m Will, '
   - type: DividerSection
     styles:
       self:

@@ -74,13 +74,15 @@ bottomSections:
     variant: variant-a
     title: 'Hilltop Commercial Centre '
     subtitle: ''
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >+
+      Hilltop commercial centre was a perfect site to stretch the drones legs,
+      the open area was easy to shoot and allowed for multiple showcase videos.
+      The site allowed me to try some new features like the hyperlapse and some
+      interesting portraits from above of the site managers and Act
+      representative.
+
+
+
     elementId: ''
     styles:
       self:

@@ -37,7 +37,7 @@ bottomSections:
     colors: colors-f
     spacing: 16
     columns: 2
-    aspectRatio: '1:1'
+    aspectRatio: '3:2'
     showCaption: false
     enableHover: false
     elementId: ''
@@ -78,8 +78,8 @@ bottomSections:
         height: auto
         width: narrow
         padding:
-          - pt-28
-          - pb-28
+          - pt-11
+          - pb-9
           - pl-4
           - pr-4
         justifyContent: center

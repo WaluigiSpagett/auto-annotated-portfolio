@@ -35,6 +35,7 @@ sections:
         justifyContent: center
         flexDirection: col-reverse
         borderRadius: medium
+        borderStyle: solid
       title:
         textAlign: left
         fontWeight: 400

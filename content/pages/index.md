@@ -36,6 +36,7 @@ sections:
         flexDirection: col-reverse
         borderRadius: medium
         borderStyle: solid
+        borderColor: border-dark
       title:
         textAlign: left
         fontWeight: 400

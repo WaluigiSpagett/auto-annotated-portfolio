@@ -37,6 +37,7 @@ sections:
         borderRadius: medium
         borderStyle: solid
         borderColor: border-dark
+        borderWidth: 5
       title:
         textAlign: left
         fontWeight: 400

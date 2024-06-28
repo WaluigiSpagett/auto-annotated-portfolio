@@ -22,7 +22,7 @@ addTitleSuffix: true
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/Drone shot 12.JPG
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat

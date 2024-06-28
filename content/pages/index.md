@@ -28,13 +28,16 @@ sections:
           - mr-0
         padding:
           - pt-4
-          - pb-20
+          - pb-2
           - pl-4
           - pr-4
         alignItems: center
         justifyContent: center
         flexDirection: col-reverse
-        borderRadius: none
+        borderRadius: medium
+        borderStyle: solid
+        borderColor: border-dark
+        borderWidth: 5
       title:
         textAlign: left
         fontWeight: 400
@@ -116,8 +119,8 @@ sections:
         width: wide
         padding:
           - pt-9
-          - pb-20
-          - pl-4
+          - pb-9
+          - pl-3
           - pr-4
         justifyContent: center
         borderRadius: xx-large

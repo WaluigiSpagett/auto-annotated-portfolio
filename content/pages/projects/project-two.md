@@ -72,7 +72,7 @@ bottomSections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: The Section Title
+    title: 'Hilltop Commercial Centre '
     subtitle: The section subtitle
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium

@@ -35,7 +35,7 @@ bottomSections:
         width: narrow
         padding:
           - pt-11
-          - pb-28
+          - pb-11
           - pl-4
           - pr-4
         justifyContent: center

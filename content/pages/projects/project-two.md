@@ -14,6 +14,37 @@ media:
   url: /images/DJI_20240618125958_0020_D_DRONEPIC.jpg
   altText: Project image
 bottomSections:
+  - type: TextSection
+    colors: colors-f
+    variant: variant-a
+    title: 'Hilltop Commercial Centre '
+    subtitle: ''
+    text: >+
+      Hilltop commercial centre was a perfect site to stretch the drones legs,
+      the open area was easy to shoot and allowed for multiple showcase videos.
+      The site allowed me to try some new features like the hyperlapse and some
+      interesting portraits from above of the site managers and Act
+      representative.
+
+
+
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-11
+          - pb-11
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      text:
+        textAlign: center
   - type: MediaGallerySection
     title: Gallery
     subtitle: Some examples
@@ -69,17 +100,6 @@ bottomSections:
         textAlign: center
       subtitle:
         textAlign: center
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: full
-        padding:
-          - pt-36
-          - pb-36
-        justifyContent: center
-        borderWidth: 1
 backgroundImage:
   type: BackgroundImage
   url: /images/DJI_20240618125958_0020_D_DRONEPIC.jpg

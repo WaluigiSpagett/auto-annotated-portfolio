@@ -100,17 +100,6 @@ bottomSections:
         textAlign: center
       subtitle:
         textAlign: center
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: full
-        padding:
-          - pt-36
-          - pb-36
-        justifyContent: center
-        borderWidth: 1
 backgroundImage:
   type: BackgroundImage
   url: /images/DJI_20240618125958_0020_D_DRONEPIC.jpg

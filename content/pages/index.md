@@ -8,7 +8,6 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
-  url: /images/featured-Image1.jpg
 sections:
   - elementId: ''
     colors: colors-b

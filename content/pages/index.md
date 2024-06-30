@@ -10,26 +10,6 @@ backgroundImage:
   opacity: 100
   url: /images/featured-Image1.jpg
 sections:
-  - type: LabelsSection
-    title: Skills
-    subtitle: The section subtitle
-    items: []
-    colors: colors-b
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: full
-        padding:
-          - pt-1
-          - pb-1
-          - pl-4
-          - pr-4
-        justifyContent: flex-start
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
   - elementId: ''
     colors: colors-b
     backgroundSize: full

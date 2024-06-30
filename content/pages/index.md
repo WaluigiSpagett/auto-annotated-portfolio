@@ -129,4 +129,5 @@ sections:
       title:
         fontWeight": 400
         textAlign: left
+socialImage: /images/unnamed.png
 ---

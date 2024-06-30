@@ -33,7 +33,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: col-reverse
-        borderRadius: medium
+        borderRadius: none
         borderStyle: solid
         borderColor: border-dark
         borderWidth: 5

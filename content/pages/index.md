@@ -7,7 +7,7 @@ backgroundImage:
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 100
+  opacity: 59
   url: /images/DJI_20240618125441_0009_D_DRONEPIC.JPG
 sections:
   - elementId: ''

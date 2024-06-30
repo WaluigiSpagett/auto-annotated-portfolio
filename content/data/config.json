@@ -12,7 +12,8 @@
                 "type": "Link",
                 "label": "Info",
                 "url": "/info",
-                "showIcon": false
+                "showIcon": false,
+                "altText": "INFO"
             },
             {
                 "type": "Link",

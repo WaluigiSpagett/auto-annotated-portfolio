@@ -8,6 +8,7 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
+  url: /images/DJI_20240618125441_0009_D_DRONEPIC.JPG
 sections:
   - elementId: ''
     colors: colors-b

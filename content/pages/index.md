@@ -159,7 +159,7 @@ sections:
   - type: TextSection
     colors: colors-e
     variant: variant-b
-    title: ''
+    title: Where can you survey?
     subtitle: ''
     text: ''
     elementId: ''

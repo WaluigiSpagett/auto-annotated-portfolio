@@ -41,7 +41,6 @@ sections:
       title:
         textAlign: left
         fontWeight: 400
-        fontStyle: italic
         textDecoration: underline
       subtitle:
         textAlign: left

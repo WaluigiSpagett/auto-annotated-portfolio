@@ -182,7 +182,7 @@ sections:
   - type: TextSection
     colors: colors-e
     variant: variant-b
-    title: Where can you survey?
+    title: ''
     subtitle: ''
     text: >+
       Certain restrictions apply to exactly where, but a survey can be done over

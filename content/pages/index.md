@@ -14,9 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: inset
     title: Avento UAV Photography
-    subtitle: >-
-      This is my website - Here is a collection of my latest projects, a bit
-      about me and my contact information
+    subtitle: ''
     styles:
       self:
         height: auto

@@ -132,7 +132,7 @@ sections:
   - type: TextSection
     colors: colors-e
     variant: variant-a
-    title: FAQ
+    title: '**FAQ**'
     subtitle: ''
     text: |+
 

@@ -60,7 +60,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/unnamed.png
+      url: /images/output-onlinepngtools.png
       altText: altText of the image
       caption: Caption of the image
       elementId: ''

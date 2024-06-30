@@ -34,7 +34,7 @@ sections:
         justifyContent: center
         flexDirection: col-reverse
         borderRadius: none
-        borderStyle: solid
+        borderStyle: none
         borderColor: border-dark
         borderWidth: 5
       title:

@@ -56,6 +56,9 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
+    text: >
+      This is my website - Here is a collection of my latest projects, a bit
+      about me and my contact information
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''

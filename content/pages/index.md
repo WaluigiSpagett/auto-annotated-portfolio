@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: ''
+    title: Avento UAV Photography
     subtitle: >-
       This is my website - Here is a collection of my latest projects, a bit
       about me and my contact information

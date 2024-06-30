@@ -15,9 +15,6 @@ sections:
     subtitle: The section subtitle
     items:
       - type: Label
-        label: Microsoft Office
-        url: ''
-      - type: Label
         label: Next.js
         url: ''
       - type: Label

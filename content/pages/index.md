@@ -105,7 +105,7 @@ sections:
 
     name: '- Will'
     title: Head UAV Photographer at Avento
-    colors: colors-b
+    colors: colors-e
     elementId: ''
     styles:
       self:

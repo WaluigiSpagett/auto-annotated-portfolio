@@ -57,7 +57,7 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
-  - colors: colors-c
+  - colors: colors-b
     type: FeaturedProjectsSection
     elementId: ''
     actions:

@@ -13,10 +13,7 @@ sections:
   - type: LabelsSection
     title: Skills
     subtitle: The section subtitle
-    items:
-      - type: Label
-        label: Swift
-        url: ''
+    items: []
     colors: colors-b
     elementId: ''
     styles:

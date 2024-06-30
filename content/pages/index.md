@@ -135,7 +135,7 @@ sections:
     colors: colors-e
     variant: variant-b
     title: How much does it cost?
-    subtitle: The section subtitle
+    subtitle: ''
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo

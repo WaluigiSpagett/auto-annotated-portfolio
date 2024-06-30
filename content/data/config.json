@@ -46,64 +46,50 @@
             }
         }
     },
-
-  	"footer": {
+    "footer": {
         "type": "Footer",
         "primaryLinks": [
             {
                 "type": "Link",
                 "label": "Info",
                 "url": "/info",
-                "altText": "",
-                "showIcon": false
-            },
-            {
-                "type": "Link",
-                "label": "Contact",
-                "url": "mailto:wnewby2007@gmail.com",
                 "altText": ""
             },
             {
                 "type": "Link",
-                "label": "Home",
-                "altText": "",
-                "url": "/",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
+                "label": "Contact",
+                "url": "mailto:thisismyemail.@myemail.me",
+                "altText": ""
             },
             {
                 "type": "Link",
-                "label": "Instagram",
-                "altText": "",
-                "url": "https://www.instagram.com/aventodrones",
-                "showIcon": true,
-                "icon": "instagram",
-                "iconPosition": "right",
-                "elementId": ""
+                "label": "Blog",
+                "url": "/blog",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "GitHub",
+                "url": "https://github.com/netlify-templates",
+                "altText": "Netlify templates"
             }
         ],
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "",
-            "phoneAltText": "",
-            "email": "wnewby2007@gmail.com",
+            "phoneNumber": "850-123-5021",
+            "phoneAltText": "My phone number",
+            "email": "thisismyemail.@myemail.me",
             "emailAltText": "My email",
-            "address": "",
-            "addressAltText": ""
+            "address": "312 Lovely Street, Brooklyn, NY, 123456",
+            "addressAltText": "My address"
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/)",
         "styles": {
             "self": {
                 "width": "narrow",
-                "padding": [
-                    "pt-4",
-                    "pb-16",
-                    "pr-4",
-                    "pl-4"
-                ]
+                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
             }
         }
-    },
+    }
+}

@@ -56,9 +56,7 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
-    text: >
-      This is my website - Here is a collection of my latest projects, a bit
-      about me and my contact information
+    text: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -130,6 +128,83 @@ sections:
         textAlign: left
       title:
         fontWeight": 400
+        textAlign: left
+  - type: TextSection
+    colors: colors-e
+    variant: variant-a
+    title: FAQ
+    subtitle: ''
+    text: |+
+
+
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-10
+          - pb-3
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      text:
+        textAlign: center
+  - type: TextSection
+    colors: colors-e
+    variant: variant-b
+    title: How much does it cost?
+    subtitle: ''
+    text: >
+      Drone packages start at £75 for a basic photo and video package, email for
+      more information
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-11
+          - pb-5
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+  - type: TextSection
+    colors: colors-e
+    variant: variant-b
+    title: Where can you survey?
+    subtitle: ''
+    text: >+
+      Certain restrictions apply to exactly where, but a survey can be done over
+      most residential properties, commercial sites and rural buildings. Please
+      email for more information on your situation
+
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-5
+          - pb-5
+          - pl-5
+          - pr-5
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
         textAlign: left
 socialImage: /images/unnamed.png
 ---

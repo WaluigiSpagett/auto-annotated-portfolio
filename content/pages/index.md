@@ -15,9 +15,6 @@ sections:
     subtitle: The section subtitle
     items:
       - type: Label
-        label: C++
-        url: ''
-      - type: Label
         label: Swift
         url: ''
     colors: colors-b

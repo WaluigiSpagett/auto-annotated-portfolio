@@ -41,7 +41,7 @@
         },
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/square logo.png",
+            "url": "/images/square logo real.png",
             "altText": "altText of the image",
             "caption": "Caption of the image",
             "elementId": ""

@@ -132,7 +132,7 @@ sections:
         fontWeight": 400
         textAlign: left
   - type: TextSection
-    colors: colors-b
+    colors: colors-e
     variant: variant-b
     title: The Section Title
     subtitle: The section subtitle

@@ -58,12 +58,6 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
-    media:
-      type: ImageBlock
-      url: /images/output-onlinepngtools(1).png
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''

@@ -161,7 +161,11 @@ sections:
     variant: variant-b
     title: Where can you survey?
     subtitle: ''
-    text: ''
+    text: >+
+      Certain restrictions apply to exactly where, but a survey can be done over
+      most residential properties, commercial sites and rural buildings. Please
+      email for more information on your situation
+
     elementId: ''
     styles:
       self:

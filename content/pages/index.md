@@ -132,7 +132,7 @@ sections:
   - type: TextSection
     colors: colors-e
     variant: variant-a
-    title: The Section Title
+    title: FAQ
     subtitle: The section subtitle
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium

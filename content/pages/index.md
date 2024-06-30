@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: Avento UAV Photography
     subtitle: >-
       This is my website - Here is a collection of my latest projects, a bit

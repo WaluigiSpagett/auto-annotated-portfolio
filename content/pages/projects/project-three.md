@@ -3,9 +3,7 @@ type: ProjectLayout
 title: Summerville
 date: '2023-01-08'
 client: With M&S Roofing
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: ''
 featuredImage:
   type: ImageBlock
   url: /images/Drone shot 1-min.png

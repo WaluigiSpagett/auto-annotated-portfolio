@@ -8,8 +8,8 @@
     "onPrimary": "#FBFFF2",
     "secondary": "#013dd3",
     "onSecondary": "#050806",
-    "complementary": "#565862",
-    "onComplementary": "#FBFFF2",
+    "complementary": "#fff9e9",
+    "onComplementary": "#000000",
     "fontBody": "fontPrimary",
     "h1": {
         "size": "6xl",

@@ -71,7 +71,7 @@ bottomSections:
 
 
       \[A NeRF
-      Example](<https://lumalabs.ai/embed/afef118d-a036-4932-9cce-9ca239038b67?mode=sparkles&background=%23ffffff&color=%23000000&showTitle=true&loadBg=true&logoPosition=bottom-left&infoPosition=bottom-right&cinematicVideo=undefined&showMenu=false>)
+      Example]\(https://lumalabs.ai/embed/afef118d-a036-4932-9cce-9ca239038b67?mode=sparkles&background=%23ffffff&color=%23000000&showTitle=true&loadBg=true&logoPosition=bottom-left&infoPosition=bottom-right&cinematicVideo=undefined&showMenu=false)
     elementId: ''
     styles:
       self:

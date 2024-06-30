@@ -11,7 +11,7 @@ backgroundImage:
   url: /images/DJI_20240618125441_0009_D_DRONEPIC.JPG
 sections:
   - elementId: ''
-    colors: colors-b
+    colors: colors-f
     backgroundSize: full
     title: ''
     subtitle: >-

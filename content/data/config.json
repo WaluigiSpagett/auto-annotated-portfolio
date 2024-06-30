@@ -97,5 +97,6 @@
                 ]
             }
         }
-    }
+    },
+    "defaultSocialImage": "/images/unnamed.png"
 }

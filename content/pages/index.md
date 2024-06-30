@@ -15,9 +15,6 @@ sections:
     subtitle: The section subtitle
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
-        url: ''
-      - type: Label
         label: React
         url: ''
       - type: Label

@@ -175,9 +175,9 @@ sections:
         width: wide
         padding:
           - pt-5
-          - pb-28
-          - pl-4
-          - pr-4
+          - pb-5
+          - pl-5
+          - pr-5
         justifyContent: center
       title:
         textAlign: left

@@ -40,7 +40,7 @@ sections:
         borderWidth: 5
       title:
         textAlign: left
-        fontWeight: 400
+        fontWeight: 500
         textDecoration: underline
       subtitle:
         textAlign: left

@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Preview Promotional Project
 colors: colors-a
-date: '0002-10-31'
+date: '2022-10-31'
 client: By Me
 description: ''
 featuredImage:

@@ -32,7 +32,7 @@
             }
         ],
         "styles": {
-            "background-color: white",
+            "background-color": "white",
             "self": {
                 "width": "full"
             }

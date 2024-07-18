@@ -3,7 +3,7 @@ type: ProjectLayout
 title: 'Project #2'
 colors: colors-a
 date: '2024-06-18'
-client: With Associated Clean Technologies
+client: ''
 description: ''
 featuredImage:
   type: ImageBlock

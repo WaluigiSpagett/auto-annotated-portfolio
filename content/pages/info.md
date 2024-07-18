@@ -48,5 +48,6 @@ sections:
     title: 'I''m Will, '
     subtitle: >-
       I like Drones and Photography, curently doing marketing photos and videos
-      with my Dji Mini 4 Pro
+      with my Dji Mini 4 Pro, I started with a Dji Mini SE and I have done over
+      50 flights combined.
 ---

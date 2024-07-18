@@ -49,11 +49,6 @@ bottomSections:
         altText: Image four
         caption: Image four caption
         elementId: ''
-      - type: ImageBlock
-        url: /images/DJI_20240717092958_0002_D_DRONEPIC.jpg
-        altText: altText of the image
-        caption: Caption of the image
-        elementId: ''
     colors: colors-f
     spacing: 16
     columns: 2

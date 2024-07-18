@@ -77,7 +77,7 @@ bottomSections:
         textAlign: center
 media:
   type: VideoBlock
-  title: Title of the video
+  title: Project 4 Video
   url: 'https://youtu.be/BD-YliszGkA'
   elementId: ''
   autoplay: false

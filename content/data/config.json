@@ -31,8 +31,8 @@
                 "elementId": ""
             }
         ],
+
         "styles": {
-            "background-color": "white",
             "self": {
                 "width": "full"
             }

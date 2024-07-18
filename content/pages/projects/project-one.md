@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Preview Promotional Project
+title: 'Project #1'
 colors: colors-a
 date: '2022-10-31'
 client: By Me

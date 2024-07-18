@@ -1,6 +1,6 @@
 ---
 type: ProjectFeedLayout
-title: Avento Photography
+title: Avento Photography Projects
 colors: colors-a
 backgroundImage:
   type: BackgroundImage

@@ -80,7 +80,7 @@ bottomSections:
         caption: Caption of the image
         elementId: ''
     colors: colors-f
-    spacing: 27
+    spacing: 20
     columns: 2
     aspectRatio: '3:2'
     showCaption: false

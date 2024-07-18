@@ -78,7 +78,7 @@ bottomSections:
 media:
   type: VideoBlock
   title: Project 4 Video
-  url: /public/DJI_20240717093853_0024_D_DRONEPIC.mp4
+  url: public/DJI_20240717093853_0024_D_DRONEPIC.mp4
   elementId: ''
   autoplay: false
   loop: false

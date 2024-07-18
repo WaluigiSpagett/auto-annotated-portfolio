@@ -55,7 +55,7 @@ bottomSections:
         caption: Caption of the image
         elementId: ''
     colors: colors-f
-    spacing: 16
+    spacing: 25
     columns: 2
     aspectRatio: '4:3'
     showCaption: false

@@ -20,7 +20,7 @@ addTitleSuffix: true
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/DJI_20240717093235_0011_D_DRONEPIC.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat

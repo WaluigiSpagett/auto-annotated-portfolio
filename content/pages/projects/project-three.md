@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 'Project #3'
 date: '2023-01-08'
-client: With M&S Roofing
+client: ''
 description: ''
 featuredImage:
   type: ImageBlock

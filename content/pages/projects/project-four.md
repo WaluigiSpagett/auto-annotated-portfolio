@@ -57,7 +57,7 @@ bottomSections:
     colors: colors-f
     spacing: 16
     columns: 2
-    aspectRatio: '1:1'
+    aspectRatio: '3:4'
     showCaption: false
     enableHover: false
     elementId: ''

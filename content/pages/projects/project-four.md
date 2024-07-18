@@ -78,7 +78,7 @@ bottomSections:
 media:
   type: VideoBlock
   title: Project 4 Video
-  url: 'https://youtu.be/BD-YliszGkA'
+  url: 'https://youtu.be/M7HaiOn4Sgc'
   elementId: ''
   autoplay: false
   loop: false

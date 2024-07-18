@@ -55,7 +55,7 @@ bottomSections:
     columns: 2
     aspectRatio: '3:2'
     showCaption: false
-    enableHover: false
+    enableHover: true
     elementId: ''
     styles:
       self:

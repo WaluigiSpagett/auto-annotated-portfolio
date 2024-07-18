@@ -51,11 +51,11 @@ bottomSections:
         caption: Image four caption
         elementId: ''
     colors: colors-f
-    spacing: 16
+    spacing: 20
     columns: 2
     aspectRatio: '3:2'
     showCaption: false
-    enableHover: false
+    enableHover: true
     elementId: ''
     styles:
       self:

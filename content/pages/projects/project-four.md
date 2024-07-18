@@ -46,17 +46,17 @@ bottomSections:
         caption: Image three caption
         elementId: ''
       - type: ImageBlock
+        url: /images/DJI_20240717093235_0011_D_DRONEPIC.jpg
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
+      - type: ImageBlock
         url: /images/DJI_20240717093148_0007_D_DRONEPIC.jpg
         altText: Image four
         caption: Image four caption
         elementId: ''
       - type: ImageBlock
         url: /images/DJI_20240717092958_0002_D_DRONEPIC.jpg
-        altText: altText of the image
-        caption: Caption of the image
-        elementId: ''
-      - type: ImageBlock
-        url: /images/DJI_20240717093235_0011_D_DRONEPIC.jpg
         altText: altText of the image
         caption: Caption of the image
         elementId: ''

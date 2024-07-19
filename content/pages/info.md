@@ -52,7 +52,7 @@ sections:
       - type: Button
         label: See My Work
         altText: ''
-        url: /
+        url: /projects
         showIcon: true
         icon: arrowRight
         iconPosition: right

@@ -13,10 +13,9 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-      I have my A1 & A3 open sub category licence from the CAA and have EC
-      785/2004 liability insurance for commercial flights.
-
+    text: >
+      I have my A1 & A3 open sub category licence from the CAA and EC 785/2004
+      liability insurance for commercial flights.
     styles:
       self:
         height: auto

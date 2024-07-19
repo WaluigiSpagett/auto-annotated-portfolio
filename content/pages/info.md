@@ -5,10 +5,10 @@ colors: colors-a
 backgroundImage:
   type: BackgroundImage
   url: /images/IMG-20240618-WA0005~8.jpg
-  backgroundSize: cover
+  backgroundSize: contain
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 42
+  opacity: 23
 sections:
   - elementId: ''
     colors: colors-f
@@ -40,12 +40,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-    media:
-      type: ImageBlock
-      url: /images/IMG-20240618-WA0005~8.jpg
-      altText: Will and the Dji Mini 4 pro
-      caption: Caption of the image
-      elementId: ''
     title: 'I''m Will, '
     subtitle: >-
       I'm interested in Drones and Photography, curently doing marketing photos

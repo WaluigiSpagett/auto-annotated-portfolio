@@ -70,7 +70,7 @@ sections:
           - pt-28
           - pb-28
           - pl-4
-          - pr-4
+          - pr-0
         alignItems: center
         justifyContent: center
         flexDirection: row

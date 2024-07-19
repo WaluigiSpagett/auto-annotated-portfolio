@@ -4,19 +4,18 @@ title: About
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg4.jpg
+  url: /images/IMG-20240618-WA0005~8.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 75
+  opacity: 39
 sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-      I have my A1 & A3 open sub category licence from the CAA and have EC
-      785/2004 liability insurance for commercial flights.
-
+    text: >
+      I have my A1 & A3 open sub category licence from the CAA and EC 785/2004
+      liability insurance for commercial flights.
     styles:
       self:
         height: auto
@@ -41,15 +40,44 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-    media:
-      type: ImageBlock
-      url: /images/IMG-20240618-WA0005~8.jpg
-      altText: Will and the Dji Mini 4 pro
-      caption: Caption of the image
-      elementId: ''
     title: 'I''m Will, '
     subtitle: >-
       I'm interested in Drones and Photography, curently doing marketing photos
-      and videos with my Dji Mini 4 Pro. I started with a Dji Mini SE and I have
-      done over 50 flights combined.
+      and videos with my Dji Mini 4 Pro. I started with a Dji Mini SE 2 years
+      ago and I have done over 50 flights combined since.
+  - type: CtaSection
+    title: See my work
+    text: |
+      View all my projects here
+    actions:
+      - type: Button
+        label: Projects
+        altText: ''
+        url: /projects
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-0
+        alignItems: center
+        justifyContent: center
+        flexDirection: col
+      title:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
 ---

@@ -60,7 +60,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/IMG-20240618-WA0005~8.jpg
       altText: Hero image
       caption: Caption of the image
       elementId: ''

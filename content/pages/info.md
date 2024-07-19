@@ -51,7 +51,7 @@ sections:
       View all my projects here
     actions:
       - type: Button
-        label: Try it now
+        label: Projects
         altText: ''
         url: /
         showIcon: true

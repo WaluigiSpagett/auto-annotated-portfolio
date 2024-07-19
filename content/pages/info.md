@@ -78,7 +78,7 @@ sections:
           - pr-8
         alignItems: center
         justifyContent: center
-        flexDirection: col-reverse
+        flexDirection: col
       title:
         textAlign: left
       subtitle:

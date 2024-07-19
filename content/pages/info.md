@@ -46,9 +46,7 @@ sections:
       and videos with my Dji Mini 4 Pro. I started with a Dji Mini SE 2 years
       ago and I have done over 50 flights combined since.
   - type: HeroSection
-    title: >-
-      I'm a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: ''
     subtitle: ''
     actions:
       - type: Button

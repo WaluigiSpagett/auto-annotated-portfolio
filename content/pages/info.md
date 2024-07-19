@@ -50,7 +50,7 @@ sections:
     subtitle: ''
     actions:
       - type: Button
-        label: Hire me
+        label: See My Work
         altText: ''
         url: /
         showIcon: true

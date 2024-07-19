@@ -6,7 +6,7 @@ backgroundImage:
   type: BackgroundImage
   url: /images/IMG-20240618-WA0005~8.jpg
   backgroundSize: auto
-  backgroundPosition: center
+  backgroundPosition: top
   backgroundRepeat: no-repeat
   opacity: 49
 sections:

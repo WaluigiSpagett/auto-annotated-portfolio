@@ -5,7 +5,7 @@ colors: colors-a
 backgroundImage:
   type: BackgroundImage
   url: /images/IMG-20240618-WA0005~8.jpg
-  backgroundSize: auto
+  backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 49

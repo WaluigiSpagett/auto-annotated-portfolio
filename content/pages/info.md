@@ -46,7 +46,7 @@ sections:
       and videos with my Dji Mini 4 Pro. I started with a Dji Mini SE 2 years
       ago and I have done over 50 flights combined since.
   - type: CtaSection
-    title: Let's do this
+    title: See my work
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.

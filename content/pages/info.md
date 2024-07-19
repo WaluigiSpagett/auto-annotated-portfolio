@@ -47,9 +47,8 @@ sections:
       ago and I have done over 50 flights combined since.
   - type: CtaSection
     title: See my work
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: |
+      View all my projects here
     actions:
       - type: Button
         label: Try it now

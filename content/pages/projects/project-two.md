@@ -55,27 +55,27 @@ bottomSections:
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
-        url: /images/DJI_20240618132004_0045_D_DRONEPIC.JPG
+        url: /images/DJI_20240618132004_0045_D_DRONEPIC.jpg
         altText: Image two
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
-        url: /images/DJI_20240618130044_0021_D_DRONEPIC.JPG
+        url: /images/DJI_20240618130044_0021_D_DRONEPIC.jpg
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: /images/DJI_0760.JPG
+        url: /images/DJI_0760.jpg
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: /images/DJI_20240618125634_0012_D_DRONEPIC.JPG
+        url: /images/DJI_20240618125634_0012_D_DRONEPIC.jpg
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: /images/DJI_0770.JPG
+        url: /images/DJI_0770.jpg
         altText: altText of the image
         caption: Caption of the image
         elementId: ''

@@ -20,7 +20,7 @@ addTitleSuffix: true
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/Drone shot 12.JPG
+  url: /images/Drone shot 12.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -31,17 +31,17 @@ bottomSections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/Drone shot 8 .JPG
+        url: /images/Drone shot 8 .jpg
         altText: Image one
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
-        url: /images/Drone shot 12.JPG
+        url: /images/Drone shot 12.jpg
         altText: Image two
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
-        url: /images/Drone shot 6.JPG
+        url: /images/Drone shot 6.jpg
         altText: Image three
         caption: Image three caption
         elementId: ''

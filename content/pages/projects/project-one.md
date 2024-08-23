@@ -30,7 +30,7 @@ bottomSections:
         caption: Image three caption
         elementId: ''
       - type: ImageBlock
-        url: /images/Promotional Photo 4.png
+        url: /images/Promotional Photo 4.jpg
         altText: Image four
         caption: Image four caption
         elementId: ''

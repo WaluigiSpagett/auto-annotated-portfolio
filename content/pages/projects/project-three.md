@@ -20,7 +20,7 @@ addTitleSuffix: true
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/Drone shot 12.JPG
+  url: /images/Drone shot 12.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat

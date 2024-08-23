@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
-    title: Avento UAV Photography
+    title: Avento Drone Photography
     subtitle: ''
     styles:
       self:

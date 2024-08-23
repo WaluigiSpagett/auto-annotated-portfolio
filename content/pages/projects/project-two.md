@@ -65,7 +65,7 @@ bottomSections:
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: /images/DJI_0760.JPG
+        url: /images/DJI_0760.jpg
         altText: altText of the image
         caption: Caption of the image
         elementId: ''

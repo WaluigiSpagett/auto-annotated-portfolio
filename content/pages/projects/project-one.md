@@ -15,17 +15,17 @@ bottomSections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/Promotional Photo 2.JPG
+        url: /images/Promotional Photo 2.jpg
         altText: Image one
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
-        url: /images/Promotional Photo 3.JPG
+        url: /images/Promotional Photo 3.jpg
         altText: Image two
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
-        url: /images/Promotional Photo 5.JPG
+        url: /images/Promotional Photo 5.jpg
         altText: Image three
         caption: Image three caption
         elementId: ''
@@ -102,7 +102,7 @@ media:
   aspectRatio: '16:9'
 backgroundImage:
   type: BackgroundImage
-  url: /images/Promotional Photo 4.png
+  url: /images/Promotional Photo 4.jpg
   backgroundSize: auto
   backgroundPosition: center
   backgroundRepeat: no-repeat

@@ -6,13 +6,13 @@ client: ''
 description: ''
 featuredImage:
   type: ImageBlock
-  url: /images/Drone shot 1-min.png
+  url: /images/Drone shot 1-min.jpg
   altText: Project thumbnail image
   caption: ''
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/Drone shot 1-min.png
+  url: /images/Drone shot 1-min.jpg
   altText: Project image
   caption: Caption of the image
   elementId: ''
@@ -46,7 +46,7 @@ bottomSections:
         caption: Image three caption
         elementId: ''
       - type: ImageBlock
-        url: /images/Drone shot 2-min.png
+        url: /images/Drone shot 2-min.jpg
         altText: Image four
         caption: Image four caption
         elementId: ''

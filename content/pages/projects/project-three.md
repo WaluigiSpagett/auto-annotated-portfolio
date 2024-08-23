@@ -6,7 +6,7 @@ client: ''
 description: ''
 featuredImage:
   type: ImageBlock
-  url: /images/Drone shot 1-min.png
+  url: /images/Drone shot 1-min.jpg
   altText: Project thumbnail image
   caption: ''
   elementId: ''

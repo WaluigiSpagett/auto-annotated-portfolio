@@ -70,7 +70,7 @@ bottomSections:
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: /images/DJI_20240618125634_0012_D_DRONEPIC.JPG
+        url: /images/DJI_20240618125634_0012_D_DRONEPIC.jpg
         altText: altText of the image
         caption: Caption of the image
         elementId: ''

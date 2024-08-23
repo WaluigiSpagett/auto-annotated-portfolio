@@ -102,7 +102,7 @@ media:
   aspectRatio: '16:9'
 backgroundImage:
   type: BackgroundImage
-  url: /images/Promotional Photo 4.png
+  url: /images/Promotional Photo 4.jpg
   backgroundSize: auto
   backgroundPosition: center
   backgroundRepeat: no-repeat

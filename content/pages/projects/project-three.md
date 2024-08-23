@@ -36,7 +36,7 @@ bottomSections:
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
-        url: /images/Drone shot 12.JPG
+        url: /images/Drone shot 12.jpg
         altText: Image two
         caption: Image two caption
         elementId: ''

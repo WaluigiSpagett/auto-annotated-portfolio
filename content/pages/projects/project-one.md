@@ -15,7 +15,7 @@ bottomSections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/Promotional Photo 2.JPG
+        url: /images/Promotional Photo 2.jpg
         altText: Image one
         caption: Image one caption
         elementId: ''

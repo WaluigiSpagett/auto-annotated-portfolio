@@ -12,7 +12,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/Drone shot 1-min.png
+  url: /images/Drone shot 1-min.jpg
   altText: Project image
   caption: Caption of the image
   elementId: ''

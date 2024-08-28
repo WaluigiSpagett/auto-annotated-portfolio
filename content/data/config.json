@@ -64,7 +64,7 @@
                 "label": "Privacy Policy",
                 "altText": "",
                 "url": "/privacy-policy",
-                "showIcon": true,
+                "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""

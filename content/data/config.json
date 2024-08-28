@@ -63,7 +63,7 @@
                 "type": "Link",
                 "label": "Privacy Policy",
                 "altText": "",
-                "url": "/public/dictionary.pdf",
+                "url": "content/pages/projects/index.html",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",

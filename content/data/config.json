@@ -63,7 +63,7 @@
                 "type": "Link",
                 "label": "Privacy Policy",
                 "altText": "",
-                "url": "content/pages/projects/index.html",
+                "url": "content/pages/projects/html-to-markdown.md",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",

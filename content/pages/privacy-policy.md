@@ -1,2 +1,0 @@
-url: /public/dictionary.pdf
-

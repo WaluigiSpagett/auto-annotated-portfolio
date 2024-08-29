@@ -81,7 +81,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: CtaSection
-    title: Let's do this
+    title: View our privacy policy and copyright policy
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.

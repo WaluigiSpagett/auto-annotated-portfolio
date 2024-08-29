@@ -63,7 +63,7 @@
                 "type": "Link",
                 "label": "Privacy Policy",
                 "altText": "",
-                "url": "content/pages/projects/index.html",
+                "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",

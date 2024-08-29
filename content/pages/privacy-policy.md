@@ -129,9 +129,9 @@ sections:
     subtitle: ''
     text: >
       All photos', taken by Avento Drones to fufill any contract, copyrights are
-      retained by Avento Drones for 70 years in line with the uk copyright law
+      retained by Avento Drones for 70 years in line with the UK copyright law
       however as signed in the contract you are permitted usage rights for
-      marketing and internal use however all copyright is retained by Avento
+      marketing and internal use, however all copyright is retained by Avento
       Drones
     elementId: ''
     styles:

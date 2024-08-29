@@ -80,4 +80,38 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - type: CtaSection
+    title: View our privacy policy and copyright policy
+    text: ''
+    actions:
+      - type: Button
+        label: Try it now
+        altText: ''
+        url: /privacy-policy
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: col
+      title:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
 ---

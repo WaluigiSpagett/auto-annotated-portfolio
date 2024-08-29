@@ -127,13 +127,12 @@ sections:
     variant: variant-a
     title: Our Copyright Policy
     subtitle: ''
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      All photos', taken by Avento Drones to fufill any contract, copyrights are
+      retained by Avento Drones for 70 years in line with the uk copyright law
+      however as signed in the contract you are permitted usage rights for
+      marketing and internal use however all copyright is retained by Avento
+      Drones
     elementId: ''
     styles:
       self:

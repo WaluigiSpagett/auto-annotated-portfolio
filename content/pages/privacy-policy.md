@@ -29,11 +29,4 @@ sections:
         textAlign: left
 addTitleSuffix: true
 colors: colors-e
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 80
 ---

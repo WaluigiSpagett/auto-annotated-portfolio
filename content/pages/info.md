@@ -87,7 +87,7 @@ sections:
       - type: Button
         label: Try it now
         altText: ''
-        url: /
+        url: /privacy-policy
         showIcon: true
         icon: arrowRight
         iconPosition: right

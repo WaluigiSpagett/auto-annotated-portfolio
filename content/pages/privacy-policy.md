@@ -28,7 +28,7 @@ sections:
       text:
         textAlign: left
 addTitleSuffix: true
-colors: colors-a
+colors: colors-e
 backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg

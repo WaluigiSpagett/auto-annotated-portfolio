@@ -121,7 +121,7 @@ sections:
           - pl-4
           - pr-4
         justifyContent: center
-        borderWidth: 3
+        borderWidth: 2
 addTitleSuffix: true
 colors: colors-e
 ---

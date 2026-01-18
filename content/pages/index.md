@@ -160,8 +160,9 @@ sections:
     title: How much does it cost?
     subtitle: ''
     text: >
-      Drone packages start at £75 for a basic photo and video package, email for
-      more information
+      Drone packages start at £100 for a basic photo package, £150 for a photo
+      and video package and £200 for custom branded photo and videos. Email for
+      more information.
     elementId: ''
     styles:
       self:
